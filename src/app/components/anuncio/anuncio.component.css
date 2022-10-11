@@ -1,0 +1,7 @@
+.checkbox-box {
+    margin-top: 5px;
+}
+
+.checkbox-box input[type="checkbox"] {
+    margin-right: 5px;
+}

@@ -1,0 +1,31 @@
+#menu-buscapet{
+  background-color: #00856F;
+}
+
+#logo-buscapet, #menu-list-buscapet{
+  color: #FFFAF1;
+  transition: 0.2;
+}
+
+#boasvindas-buscapet{
+  color: #00856F;
+}
+
+#foto-pets{
+  width: 80%;
+  height: 25rem;
+}
+
+#menu-list-buscapet:hover{
+  color: #111;
+  border-radius: 5%;
+}
+
+#servicos{
+  color: #00856F;
+}
+
+#footer{
+  background-color: #00856F;
+  border: 1px solid #00856F;
+}
